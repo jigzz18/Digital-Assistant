@@ -41,7 +41,7 @@ class MyFrame(wx.Frame):
         else:
             try:
                 #wolframalpha code
-                app_id = "29GAAJ-9XEWTU5JR8"
+                app_id = "Add your API Key here"
                 client = wolframalpha.Client(app_id)
                 res = client.query(input)
                 answer = next(res.results).text
