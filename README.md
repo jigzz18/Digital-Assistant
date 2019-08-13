@@ -6,6 +6,6 @@ Python Based digital assistant.
 
 Sign in to Wolframalpha website.
 Get the API Key
-Paste API key in the code.
+Paste the API key in the code.
 install Wxpython in PC
 Run the python file
